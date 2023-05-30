@@ -1,3 +1,3 @@
 # Machine Learning Study Python
 
-Makine öğrenmesi algoritmalarını öğrenmek için, M.Vahit Keskin tarafından hazırlanmış Makine Öğrenmesi kursu kapsamında yaptığım pratik çalışmalar.
+To learn machine learning algorithms, I have been working within the scope of the "Machine Learning" course prepared by M. Vahit Keskin.
